@@ -1,0 +1,88 @@
+.wy-nav-content {
+    max-width: 100%;
+    background-color: #1f1f1ff5;
+    color: #999;
+}
+.rst-content .section dl dt {
+    background-color: #1f1f1ff5;    
+}
+.rst-content .section dl dt .descclassname {
+    background-color: #1f1f1ff5;    
+    border: 1px solid #485357;
+    border-radius: 1em 0 0 1em;
+} 
+.rst-content .section dl dt .descname {
+    background-color: #1f1f1ff5;    
+    border: 1px solid #485357;
+    border-radius: 0 1em 1em 0;
+} 
+.rst-content .section .method dt .descname {
+    /* background-color: #1f1f1ff5;     */
+    border: none;
+} 
+.rst-content .section dl dd dt {    
+    background-color: #1f1f1ff5;    
+}
+.rst-content tt, .rst-content tt, .rst-content code {
+    color: #E74C3C;
+}
+.highlight {
+    background-color: #1f1f1ff5 !important;    
+}
+.rst-content .section dl dd .highlight-default  {
+    background-color: #1f1f1ff5 !important;    
+    border: 1px solid #485357;
+    border-radius: 1em;
+} 
+.rst-content .section dl dd .highlight-default .highlight span {
+    color: #999;
+} 
+.rst-content .section dl dd .highlight-default .highlight .k {
+    color: #96559e;
+} 
+.rst-content .section dl dd .highlight-default .highlight .ow {
+    color: #386191;
+} 
+.rst-content .section dl dd .highlight-default .highlight .s {
+    color: #a76936;
+} 
+.rst-content .section dl dd .highlight-default .highlight .s2 {
+    color: #a76936;
+} 
+.rst-content .section dl dd .highlight-default .highlight .mi {
+    color: #a19149;
+} 
+.rst-content .section dl dd .last { 
+    border: none;
+}
+.rst-content .section dl dd .last .highlight {
+    background-color: inherit;     
+    border: 1px solid #485357;;
+    border-radius: 1em;
+}
+.rst-content .section dl dd code {
+    background-color: #1f1f1ff5;    
+    border: 1px solid #485357;;
+    border-radius: 1em;
+} 
+div .btn-neutral {
+    background-color: #464646f5 !important;   
+    border-radius: 1em;
+}
+div .btn-neutral:visited {
+    color: #bbbbbb !important;
+}
+div .btn-neutral:hover {
+    color: #2e2e2e !important;
+}
+
+.wy-side-nav-search {
+    background-color: #223746;
+}
+/* .wy-menu-vertical ul li>a {
+    background-color: #3b3b3b;
+}
+.wy-menu-vertical li.current>a {
+    background-color: #2d5775;
+
+} */
